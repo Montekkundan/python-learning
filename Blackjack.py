@@ -87,7 +87,7 @@ def game():
 
     while computer_score != 0 and computer_score < 17:
         computer_cards.append(dealing_cards())
-        computer_score = callable(computer_cards)
+        computer_score = calculate(computer_cards)
     print(f" Your final hand: {user_cards}, your final score: {user_score}")
     print(f" Computer's final hand: {computer_cards}, computer's final score: {computer_score}")
     print(compare(user_score, computer_score))
