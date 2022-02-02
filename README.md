@@ -22,6 +22,7 @@
 ![Screenshot_4](https://user-images.githubusercontent.com/87750128/152089118-3979b357-43e8-4020-8c97-28059cff6124.png)
 
 ## Spirograph
+![ezgif-2-95f825c8b1](https://user-images.githubusercontent.com/87750128/152091511-377c115b-3c21-4cad-ade2-2d285a6996d4.gif)
 
 
 ## Treasure Game
@@ -34,3 +35,11 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/87750128/152089050-135749bb-43f5-4805-aef8-ae26d4bfc65b.png)
 
 ## Sketching with Python
+`W` or `Up arrow` for moving up <br>
+`A` or `Left arrow` for moving left <br>
+`S` or `Down arrow` for moving down <br>
+`D` or `Right arrow` for moving right <br>
+`c` for clearing sketch board 
+<br>
+
+![ezgif-2-3d9334acde](https://user-images.githubusercontent.com/87750128/152091520-76ffd695-009f-4794-b51e-e783d7e7f73b.gif)
