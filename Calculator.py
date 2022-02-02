@@ -60,12 +60,12 @@ def calculate():
         print(f"{n1} {user_choice} {n2} = {answer}")
         user_choice = input(f"Type 'y' to continue calculating with {answer}, or type 'n' to start a new calculation, or type end to stop: ")
         if user_choice == 'y':
-            num1 = answer
+            n1 = answer
         elif user_choice == 'n':
             user_continue = False
             calculate()
-        elif user_choice == 'no':
+        elif user_choice == 'end':
             user_continue = False
-
+            os.system("pause")
 
 calculate()
