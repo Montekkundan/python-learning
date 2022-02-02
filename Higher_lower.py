@@ -2,7 +2,6 @@ import random
 import os
 
 logo = '''
-
 $$\   $$\ $$\           $$\                              __                                                   
 $$ |  $$ |\__|          $$ |                            /  |                                                  
 $$ |  $$ |$$\  $$$$$$\  $$$$$$$\   $$$$$$\   $$$$$$\    $$ |        ______   __   __   __   ______    ______  
@@ -13,8 +12,7 @@ $$ |  $$ |$$ |\$$$$$$$ |$$ |  $$ |\$$$$$$$\ $$ |        $$ |_____ $$ \__$$ |$$ \
 \__|  \__|\__| \____$$ |\__|  \__| \_______|\__|        $$       |$$    $$/ $$   $$   $$/ $$       |$$ | 
               $$\   $$ |                                $$$$$$$$/  $$$$$$/   $$$$$/$$$$/   $$$$$$$/ $$/ 
               \$$$$$$_/                              
-
-                                                  
+                                                 
 '''
 vs = '''
                          
@@ -351,7 +349,6 @@ def answer_check(guess, followers1, followers2):
         return guess == "b"
 
 
-
 print(logo)
 score = 0
 contine_game = True
@@ -382,3 +379,4 @@ while contine_game:
     else:
         contine_game = False
         print(f"Sorry, wrong answer. Final score: {score}")
+        os.system("pause")

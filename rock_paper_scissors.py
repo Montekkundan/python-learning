@@ -1,5 +1,5 @@
 import random
-
+import os
 rock = '''
     _______
 ---'   ____)
@@ -38,16 +38,23 @@ else:
 
     if a == b:
         print("Draw")
+        os.system("pause")
     elif a == 0 and b == 1:
         print("You lose")
+        os.system("pause")
     elif a == 0 and b == 2:
         print("You win")
+        os.system("pause")
     elif a == 1 and b == 0:
         print("You win")
+        os.system("pause")
     elif a == 1 and b == 2:
         print("You lose")
+        os.system("pause")
     elif a == 2 and b == 0:
         print("You lose")
+        os.system("pause")
     elif a == 2 and b == 1:
         print("You win")
+        os.system("pause")
 

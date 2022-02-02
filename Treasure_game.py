@@ -20,6 +20,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
+import os
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 direction = input("You're at a crossroad. Where do you want to go? Type \"left\" or \"right\" \n")
@@ -31,18 +32,24 @@ if direction.lower() == "left":
                      "choose?\n")
         if door.lower() == "yellow":
             print("You found the treasure! You Win!")
+            os.system("pause")
         elif door.lower() == "red":
             print("It's a room full of fire. YOU DIED!")
             print("-------- GAME OVER --------")
+            os.system("pause")
         elif door.lower() == "blue":
             print("You enter a room of beasts. YOU DIED!")
             print("-------- GAME OVER --------")
+            os.system("pause")
         else:
             print("You chose a door that doesn't exist.")
             print("-------- GAME OVER --------")
+            os.system("pause")
     else:
         print("You are attacked by a trout. YOU DIED!")
         print("-------- GAME OVER --------")
+        os.system("pause")
 else:
     print("You've fallen into a hole. YOU DIED!")
     print("-------- GAME OVER --------")
+    os.system("pause")
