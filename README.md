@@ -50,7 +50,7 @@
   </li>
   <li>
     
-   [Turtle Race](https://github.com/Montekkundan/python-learning/edit/main/README.md#turtle-race)
+   [Turtle Race](https://github.com/Montekkundan/python-learning#turtle-race)
   </li>
   
 
