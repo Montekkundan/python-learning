@@ -48,6 +48,10 @@
   
   [Sketching with Python](https://github.com/Montekkundan/python-learning#sketching-with-python)
   </li>
+  <li>
+    
+   [Turtle Race](https://github.com/Montekkundan/python-learning/edit/main/README.md#turtle-race)
+  </li>
   
 
 
@@ -95,3 +99,8 @@
 <br>
 
 ![ezgif-2-3d9334acde](https://user-images.githubusercontent.com/87750128/152091520-76ffd695-009f-4794-b51e-e783d7e7f73b.gif)
+  
+## Turtle Race
+  ![image](https://user-images.githubusercontent.com/87750128/152291766-7dd1d167-ae08-49c6-ba81-cf1f44d9acb9.gif)
+![Screenshot_1](https://user-images.githubusercontent.com/87750128/152291769-8df141fe-fdf3-4469-911b-8b52a0ad2359.png)
+
