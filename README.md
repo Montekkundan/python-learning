@@ -1,3 +1,59 @@
+## Table of contents
+<ul>
+  <li>
+  
+  [Hirst-Painting](https://github.com/Montekkundan/python-learning#hirst-painting)
+  </li>
+  <li>
+  
+  [quiz-game](https://github.com/Montekkundan/python-learning#quiz-game)
+  </li>
+  <li>
+  
+  [Blackjack](https://github.com/Montekkundan/python-learning#blackjack)
+  </li>
+  <li>
+  
+  [Calculator](https://github.com/Montekkundan/python-learning#calculator)
+  </li>
+  <li>
+  
+  [Guess the number](https://github.com/Montekkundan/python-learning#guess-the-number)
+  </li>
+  <li>
+  
+  [Hangman](https://github.com/Montekkundan/python-learning#hangman)
+  </li>
+  <li>
+  
+  [Higher Lower Game](https://github.com/Montekkundan/python-learning#higher-lower-game)
+  </li>
+  <li>
+    
+  [Spirograph](https://github.com/Montekkundan/python-learning#spirograph)
+  </li>
+  <li>
+  
+  [Treasure Game](https://github.com/Montekkundan/python-learning#treasure-game)
+  </li>
+  <li>
+  
+  [Password Generator](https://github.com/Montekkundan/python-learning#password-generator)
+  </li>
+  <li>
+  
+  [Rock Paper Scissors](https://github.com/Montekkundan/python-learning#rock-paper-scissors)
+  </li>
+   <li>
+  
+  [Sketching with Python](https://github.com/Montekkundan/python-learning#sketching-with-python)
+  </li>
+  <li>
+    
+   [Turtle Race](https://github.com/Montekkundan/python-learning#turtle-race)
+  </li>
+  
+
 
 ## Hirst-Painting
 ![ezgif-2-6549b05405](https://user-images.githubusercontent.com/87750128/152089711-8156a6f3-6b6c-4fc5-8e74-81d12598641b.gif)
@@ -43,3 +99,8 @@
 <br>
 
 ![ezgif-2-3d9334acde](https://user-images.githubusercontent.com/87750128/152091520-76ffd695-009f-4794-b51e-e783d7e7f73b.gif)
+  
+## Turtle Race
+  ![image](https://user-images.githubusercontent.com/87750128/152291766-7dd1d167-ae08-49c6-ba81-cf1f44d9acb9.gif)
+![Screenshot_1](https://user-images.githubusercontent.com/87750128/152291769-8df141fe-fdf3-4469-911b-8b52a0ad2359.png)
+
