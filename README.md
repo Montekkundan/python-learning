@@ -128,4 +128,5 @@
 
   
 ## Pomodoro Timer
-  
+  ![ezgif-5-91095e205a](https://user-images.githubusercontent.com/87750128/158017439-fb7fbca5-b22a-4ef1-a5cf-bb82c2973015.gif)
+
