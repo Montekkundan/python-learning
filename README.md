@@ -1,5 +1,9 @@
 ## Table of contents
 <ul>
+   <li>
+  
+  [Snake Game](https://github.com/Montekkundan/python-learning#Snake-Game)
+  </li>
   <li>
   
   [Hirst-Painting](https://github.com/Montekkundan/python-learning#hirst-painting)
@@ -67,7 +71,11 @@
   
   
 
+## Snake Game
+  
+![image](https://user-images.githubusercontent.com/87750128/152292911-430ed069-6463-44e4-a42c-8010510bfd36.gif)  
 
+  
 ## Hirst-Painting
 ![ezgif-2-6549b05405](https://user-images.githubusercontent.com/87750128/152089711-8156a6f3-6b6c-4fc5-8e74-81d12598641b.gif)
 
