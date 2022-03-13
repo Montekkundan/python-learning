@@ -74,6 +74,10 @@
 ## Snake Game
   
 ![image](https://user-images.githubusercontent.com/87750128/152292911-430ed069-6463-44e4-a42c-8010510bfd36.gif)  
+`W` or `Up arrow` for moving up <br>
+`A` or `Left arrow` for moving left <br>
+`S` or `Down arrow` for moving down <br>
+`D` or `Right arrow` for moving right <br>
 
   
 ## Hirst-Painting
