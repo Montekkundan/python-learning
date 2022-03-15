@@ -12,6 +12,10 @@
   
   [Hirst-Painting](https://github.com/Montekkundan/python-learning#hirst-painting)
   </li>
+   <li>
+  
+  [Encryption](https://github.com/Montekkundan/python-learning#Encryption)
+  </li>
   <li>
   
   [Coffee Maker](https://github.com/Montekkundan/python-learning#Coffee-Maker)
@@ -102,6 +106,10 @@
  
 ## Hirst-Painting
 ![ezgif-2-6549b05405](https://user-images.githubusercontent.com/87750128/152089711-8156a6f3-6b6c-4fc5-8e74-81d12598641b.gif)
+   
+## Encryption 
+   
+  ![Screenshot_1](https://user-images.githubusercontent.com/87750128/151373644-111dad66-480e-42ef-8a28-fd21fd44ce55.png)
    
 ## Coffee Maker
 ![Screenshot_1](https://user-images.githubusercontent.com/87750128/151376431-69e334d0-b747-4b1e-839c-61aa702c2cfb.png)
