@@ -14,6 +14,10 @@
   </li>
   <li>
   
+  [Coffee Maker](https://github.com/Montekkundan/python-learning#Coffee-Maker)
+  </li>
+  <li>
+  
   [quiz-game](https://github.com/Montekkundan/python-learning#quiz-game)
   </li>
   <li>
@@ -98,7 +102,9 @@
  
 ## Hirst-Painting
 ![ezgif-2-6549b05405](https://user-images.githubusercontent.com/87750128/152089711-8156a6f3-6b6c-4fc5-8e74-81d12598641b.gif)
-
+   
+## Coffee Maker
+![Screenshot_1](https://user-images.githubusercontent.com/87750128/151376431-69e334d0-b747-4b1e-839c-61aa702c2cfb.png)
 
 ## quiz-game
 ![Screenshot_9](https://user-images.githubusercontent.com/87750128/152089170-347a65fb-560c-409a-a337-427130fc079b.png)
