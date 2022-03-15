@@ -4,6 +4,10 @@
   
   [Snake Game](https://github.com/Montekkundan/python-learning#Snake-Game)
   </li>
+   <li>
+  
+  [Pong](https://github.com/Montekkundan/python-learning#Pong)
+  </li>
   <li>
   
   [Hirst-Painting](https://github.com/Montekkundan/python-learning#hirst-painting)
@@ -79,7 +83,19 @@
 `S` or `Down arrow` for moving down <br>
 `D` or `Right arrow` for moving right <br>
 
-  
+## Pong
+   
+   ![image](https://user-images.githubusercontent.com/87750128/152380415-4aba8347-1ec4-4760-ab09-0576d39e2d98.gif)
+   
+   | Left Paddle  | Right Paddle|
+   | ------------- | ------------- |
+   | `W` to move Up  | `Up Arrow` to move Up   |
+   | `A` to move Left   | `Left Arrow` to move Left   |
+   | `S` to move Down  | `Down Arrow` to move Down  |
+   | `D` to move Right   | `Right Arrow` to move Right   |
+
+   
+ 
 ## Hirst-Painting
 ![ezgif-2-6549b05405](https://user-images.githubusercontent.com/87750128/152089711-8156a6f3-6b6c-4fc5-8e74-81d12598641b.gif)
 
